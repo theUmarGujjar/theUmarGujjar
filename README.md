@@ -2,7 +2,6 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQF_tOSn_3UXJQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ50knrgKUAU-/0/1780072217600?e=1781740800&v=beta&t=tVDbFcYXotIA7O6Gb_4hd32_hnWa76UgCQdFoMA7N2M" width="100%" style="border-radius:10px" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:00d4ff&height=200&section=header&text=Umar%20Imran%20Gujjar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Cybersecurity%20%26%20ML%20Enthusiast&descSize=16&descColor=5bb8d8&descAlignY=58" />
 
 </div>
 
